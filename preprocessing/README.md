@@ -105,6 +105,6 @@ At the top of the notebook file, set the paths to load the audio, annotations an
 ```python
 audio_path = '/laughter/DUEL/de/audio'
 annotation_path = '/laughter/DUEL/de/transcriptions_annotations/'
-save_path = '/laughter/datasets/de/'
+save_path = '/laughter/DUEL/datasets/de/'
 ```
 Then run each code block in order. This will result in a train, test and validation datset saved in the format [id, spectrogram, label].
