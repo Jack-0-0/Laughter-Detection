@@ -1,8 +1,8 @@
 # Preprocessing
 These files will convert the audio files into train, test and validation datasets in the format [id, spectrogram, label]. There is a jupyter notebook for each of the three datasets:
-* English - preprocessing_en
-* Chinese - preprocessing_ch
-* German - preprocessing_de
+* preprocessing_en - English
+* preprocessing_ch - Chinese
+* preprocessing_de - German
 
 ## Requirements
 The following packages are needed for preprocessing:
