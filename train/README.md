@@ -13,7 +13,7 @@ The following packages are needed:
 ## Datasets
 Train, test and validation datasets for each language can be downloaded at [link to be added].
 
-Alternatively they can be created as described in the preprocessing section [here](/preprocessing).
+Alternatively, the datasets can be created as described in the preprocessing section [here](/preprocessing).
 
 ## Usage
 Open network_train.py and change the variables under the settings section at the top of the file. For example, to train the network on 8,000 Hz Chinese data on GPU 2, the settings would be:
