@@ -103,6 +103,7 @@ for f in *.sph; do sox -t sph "$f" -b 16  -t wav "${f%.*}.wav"; done
 At the top of the notebook file, set the paths to load the audio, annotations and where to save the spectrograms and datasets, for example on the German file change below to the appropriate locations:
 
 ```python
+# set paths
 audio_path = '/laughter/DUEL/de/audio'
 annotation_path = '/laughter/DUEL/de/transcriptions_annotations/'
 save_path = '/laughter/DUEL/datasets/de/'
