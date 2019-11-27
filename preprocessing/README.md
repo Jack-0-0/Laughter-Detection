@@ -17,8 +17,6 @@ The following packages are needed for preprocessing:
 * SoX 14.4.1
 
 ## Datasets
-The raw datasets for all languages and the English metadata file can be downloaded from [link to be added].
-
 Expected German data structure:
 
 * audio
