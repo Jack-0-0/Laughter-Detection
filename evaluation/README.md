@@ -13,9 +13,10 @@ The following packages are needed for evaluation:
 * Keras 2.3.0
 
 ## Datasets and Trained Models
-The evaluation notebook needs a trained model, the training data used to create the model and the three language test sets. These can be downloaded from [link to be added].
+The evaluation notebook needs a trained model, the training data used to create the model and the three language test sets. Train, test and validation datasets for each language can be found in laughter_ds.zip.
+Trained models can be found in laughter_models.zip.
 
-Alternatively, the datasets can be created as described in the preprocessing section [here](/preprocessing). The trained model can be created by following the steps in the train section [here](/train).
+The datasets can be created as described in the preprocessing section [here](/preprocessing). The trained model can be created by following the steps in the train section [here](/train).
 
 ## Usage
 At the top of the notebook:
