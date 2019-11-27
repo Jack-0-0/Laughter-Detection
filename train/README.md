@@ -11,7 +11,7 @@ The following packages are needed:
 * cuda 9.0
 
 ## Datasets
-Train, test and validation datasets for each language can be downloaded at [link to be added].
+Train, test and validation datasets for each language can be found in laughter_ds.zip.
 
 Alternatively, the datasets can be created as described in the preprocessing section [here](/preprocessing).
 
