@@ -102,8 +102,8 @@ def save_folder(date_time, sfid):
     # Arguments
         date_time: Current time as per datetime.datetime.now()
 
-	# Creates
-		directory at save_folder location, if it does not exist already.
+    # Creates
+    	directory at save_folder location, if it does not exist already.
 
     # Returns
         path to save folder.
